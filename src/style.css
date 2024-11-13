@@ -69,9 +69,8 @@ main {
   color: rgba(39, 33, 66, 0.4);
 }
 
-.weather-app-details-specifics {
+.weather-app-details strong {
   color: #c852f6;
-  font-weight: bold;
 }
 
 .weather-app-temp-container {
@@ -79,18 +78,18 @@ main {
 }
 
 .weather-app-temperature {
-  font-size: 88px;
+  font-size: 66px;
   font-weight: bold;
-  margin-left: 10px;
+  line-height: 66px;
 }
 
 .weather-app-icon {
-  font-size: 44px;
-  margin-top: 22px;
+  width: 66px;
+  height: 66px;
 }
 
 .weather-app-unit {
-  margin-top: 18px;
+  margin-top: 6px;
   font-size: 28px;
 }
 
